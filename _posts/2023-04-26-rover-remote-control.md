@@ -4,14 +4,18 @@ title: Rover remote control
 subtitle: Moving along nicely
 # gh-repo: CRATER-URC/rover
 # gh-badge: [star, fork, follow]
+# cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/rover.png
+# share-img: /assets/img/path.jpg
 tags: [test]
 comments: true
 ---
 
 The team successfully controlled the rover remotely today. The rover is connected to the base station through the [airMax Omni Antenna](https://store.ui.com/collections/operator-airmax-and-ltu-antennas/products/2-4ghz-airmax-omni-10dbi-rocket-kit).
 
-**Here is some bold text**
+![Rover](/assets/img/rover.png){: .mx-auto.d-block :}
+
+<!-- **Here is some bold text**
 
 ## Here is a secondary heading
 
@@ -76,4 +80,4 @@ You can add notification, warning and error boxes like this:
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box. -->
