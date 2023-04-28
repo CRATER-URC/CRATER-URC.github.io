@@ -20,11 +20,14 @@ author: CRATER
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "aboutme"
+  Chassis: "chassis"
+  Subteams:
+    - Chassis: "chassis"
+    - Manipulator: "chassis"
+    - Electronics: "chassis"
+    - Science: "chassis"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
