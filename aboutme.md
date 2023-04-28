@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About CRATER
+subtitle: Caltech Rover Autonomy, Technology, and Exploration Research
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+The Caltech Rover Autonomy, Technology, and Exploration Research (CRATER) team is an undergraduate-led project intending to compete in rover competitions, including the University Rover Challenge (URC) and the Canadian International Rover Challenge (CIRC). The goals of the project are to design and implement novel solutions to the difficult engineering problems posed by competition tasks, and give students an opportunity to get hands-on experience with an involved system requiring participation from different majors. CRATER’s association with previous successful, student-led projects set the project up for success with access to resources to help the project start up. Moreover, CRATER has already created the first rover prototype, with locomotion testing currently being conducted.
 
 ### My story
 
