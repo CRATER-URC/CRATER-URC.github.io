@@ -23,9 +23,9 @@ navbar-links:
   About Us: "aboutme"
   Subteams:
     - Chassis: "chassis"
-    - Arm: "chassis"
-    - Electronics: "chassis"
-    - Science: "chassis"
+    - Manipulator: "manipulator"
+    - Electronics: "electronics"
+    - Science: "science"
   # Author's home: "https://deanattali.com"
 
 ################
